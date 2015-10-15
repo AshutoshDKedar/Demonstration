@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CRUID Operations Using Oracle And JSP">
+        <wb-resource deploy-path="/" source-path="/CRUID Operations" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="CRUID_Operations_Using_Oracle"/>
+        <property name="java-output-path" value="/CRUID Operations Using Oracle And JSP/build/classes"/>
+    </wb-module>
+</project-modules>
